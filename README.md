@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"
-    <meta name="viewport" content="width=device-width, initial-scale1.0">
+    meta name="viewport" content="width=device-width, initial-scale1.0">
     <meta name="author" content="Cole Davin">
-    <meta name="description" content="An informationsl webpage about singer-songwriter Gracie Abrams">
-    <<meta name="keywords" content="Leopold Godowsky, Chopin Studies, Passacaglia">
+    <meta name="description" content="An informationsl webpage about Leopold Godowsky">
+    <meta name="keywords" content="Leopold Godowsky, Chopin Studies, Passacaglia">
     <title> All About Leopold Godowsky</title>
 </head>
 <body>
@@ -44,11 +44,11 @@ to a successful career as a pianist, composer, and sought-after teacher.<p>
  </section>
  <!--Section 5-->
  <section> 
-    <h2> Gallery </h2>
-    <img src></section>
-    <img src></section>
-    <p>
-    <img src= ></section>
+<h2> Gallery </h2>
+  <img src="images/Image 2.jpg" alt="Gallery Image 2">
+  <img src="images/Image1.jpg" alt="Gallery Image 1">
+  <img src="images/Image3.jpg" alt="Gallery Image 3"
+    <p></p>
 </p>
  </main>
 
