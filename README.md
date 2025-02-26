@@ -47,7 +47,7 @@ to a successful career as a pianist, composer, and sought-after teacher.<p>
 <h2> Gallery </h2>
   <img src="images/Image 2.jpg" alt="Gallery Image 2">
   <img src="images/Image1.jpg" alt="Gallery Image 1">
-  <img src="images/Image3.jpg" alt="Gallery Image 3"
+  <img src="images/Image 3.jpg" alt="Gallery Image 3"
     <p></p>
 </p>
  </main>
